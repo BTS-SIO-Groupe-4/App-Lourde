@@ -1,0 +1,83 @@
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Application Lourde Vente.exe.config
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Application Lourde Vente.exe
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Application Lourde Vente.pdb
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\BouncyCastle.Crypto.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\DbUtils.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Google.Protobuf.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Compression.LZ4.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Hash.xxHash.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\MySql.Data.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Buffers.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Data.SqlClient.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Memory.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Numerics.Vectors.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Ubiety.Dns.Core.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\ZstdNet.dll
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Google.Protobuf.pdb
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Google.Protobuf.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Compression.LZ4.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Hash.xxHash.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\MySql.Data.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Buffers.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Data.SqlClient.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Memory.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Numerics.Vectors.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Login.baml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Main.baml
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Login.g.cs
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Main.g.cs
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\App.g.cs
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente_MarkupCompile.cache
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.g.resources
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application_Lourde_Vente.Properties.Resources.resources
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.csproj.GenerateResource.cache
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.csproj.CoreCompileInputs.cache
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.csproj.CopyComplete
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.exe
+F:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.pdb
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Login.baml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Main.baml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Login.g.cs
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Main.g.cs
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\App.g.cs
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente_MarkupCompile.cache
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.g.resources
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application_Lourde_Vente.Properties.Resources.resources
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.csproj.GenerateResource.cache
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.csproj.CoreCompileInputs.cache
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Application Lourde Vente.exe.config
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Application Lourde Vente.exe
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Application Lourde Vente.pdb
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\BouncyCastle.Crypto.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\DbUtils.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Google.Protobuf.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Compression.LZ4.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Hash.xxHash.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\MySql.Data.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Buffers.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Data.SqlClient.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Memory.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Numerics.Vectors.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Ubiety.Dns.Core.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\ZstdNet.dll
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Google.Protobuf.pdb
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\Google.Protobuf.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Compression.LZ4.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\K4os.Hash.xxHash.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\MySql.Data.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Buffers.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Data.SqlClient.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Memory.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Numerics.Vectors.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.csproj.CopyComplete
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.exe
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.pdb
+E:\Informatique\AP MERCREDI\Application Lourde Vente\Application Lourde Vente\obj\Debug\Application Lourde Vente.csproj.AssemblyReference.cache
